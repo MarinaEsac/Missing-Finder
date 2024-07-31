@@ -1,0 +1,44 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+
+.layer {
+    background-color: rgba(29, 25, 25, 54%);
+}
+
+.sidebar {
+    background-color: rgba(0, 0, 0, 56%);
+    color: rgb(255, 255, 255)
+}
+
+.listyle {
+    border-bottom: 2px solid gray;
+    color: white;
+    /* font-weight: bold; */
+    padding-block: 5px;
+    transition: 0.3s all;
+    cursor: pointer;
+}
+
+.topli {
+    border-bottom: 2px solid gray;
+    color: white;
+    font-weight: bold;
+    padding-block: 3px;
+    font-size: 19;
+}
+
+.listyle:hover {
+    color: #8783E2;
+    background-color: #707070a5;
+    font-size: 18px;
+}
+
+ul:focus{
+    color: red;
+}
+/* .icon {
+    top: 2px;
+    right: 10px;
+} */

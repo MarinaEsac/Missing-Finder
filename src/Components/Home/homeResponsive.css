@@ -1,0 +1,276 @@
+@media screen and (min-width: 450px) and (max-width: 768px) {
+    .logo {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .my-nav {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .first-ul {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        margin-block: 10px;
+    }
+
+    .second-ul {
+        width: 100%;
+        flex-direction: row;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        translate: -9px;
+    }
+
+    .authLinks {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .authLinks .signup {
+        padding-right: 30px;
+    }
+
+    .card1 {
+        width: 75%;
+        top: 410px;
+        padding-bottom: 10px;
+    }
+
+    .card1 p {
+        font-size: 22px;
+    }
+
+    .card2 {
+        width: 65%;
+
+    }
+
+    .maindiv {
+        flex-direction: column;
+    }
+
+    .sectionLogo {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .sectionLogo img {
+        width: 60%;
+    }
+
+    .description .p1 {
+        margin-top: 10px;
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .description .p2 {
+        font-size: 26px;
+    }
+
+    .btnstyle {
+        font-size: 12px;
+        height: 30px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .myfooter {
+        flex-wrap: wrap;
+    }
+
+    .myfooter .line1 {
+        display: flex;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .line2 {
+        width: 50%;
+        font-size: 20px;
+    }
+
+    .breckline {
+        display: none;
+    }
+
+    .alldiv {
+        width: 100%;
+        margin-block: 15px;
+    }
+
+    .footerlogo {
+        display: none;
+    }
+
+    .iconfooter {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .logo {
+        width: 70%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .authLinks {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .authLinks .signup {
+        padding-right: 30px;
+    }
+
+    .card1 {
+        width: 55%;
+        top: 410px;
+        padding-bottom: 10px;
+    }
+
+    .card1 p {
+        font-size: 22px;
+    }
+
+    .card2 {
+        width: 45%;
+
+    }
+
+    .maindiv {
+        flex-direction: column;
+    }
+
+    .description .p1 {
+        margin-top: 10px;
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .iconfooter {
+        width: 75%;
+    }
+
+    .sectionLogo {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .sectionLogo img {
+        width: 50%;
+    }
+
+    .myfooter {
+        flex-wrap: wrap;
+    }
+
+    .myfooter .line1 {
+        display: flex;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .line2 {
+        width: 50%;
+        font-size: 22px;
+    }
+
+    .breckline {
+        display: none;
+    }
+
+    .alldiv {
+        width: 100%;
+        margin-block: 15px;
+    }
+
+    .footerlogo {
+        display: none;
+    }
+
+    .iconfooter {
+        width: 50%;
+    }
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .myfooter {
+        flex-wrap: wrap;
+    }
+
+    .myfooter .line1 {
+        display: flex;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .line2 {
+        width: 50%;
+        font-size: 22px;
+    }
+
+    .breckline {
+        display: none;
+    }
+
+    .alldiv {
+        width: 100%;
+        margin-block: 15px;
+    }
+
+    .footerlogo {
+        display: none;
+    }
+
+    .socielmedia {
+        width: 50%;
+    }
+
+    .artical {
+        width: 50%;
+    }
+    .sectionLogo {
+        width: 100%;
+        margin: auto;
+    }
+    
+    .sectionLogo img {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1450px) {
+    .iconfooter {
+        width: 50%;
+    }
+    .socielmedia{
+        width: 50%;
+    }
+    .sectionLogo {
+        width: 90%;
+    }
+    
+    .sectionLogo img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,9 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+.layer {
+    background-color: rgba(255, 255, 255, 21%);
+    padding-block: 170px;
+
+}

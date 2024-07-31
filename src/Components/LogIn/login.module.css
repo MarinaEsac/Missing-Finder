@@ -1,0 +1,35 @@
+section {
+    background-image: url(../../Images/background.png);
+    background-size: 100% 100%;
+}
+
+.layer {
+    background-color: #48464662;
+}
+
+section .inputs span {
+    background-color: #48464610;
+    border: 0px;
+    font-size: 20px;
+}
+
+.inputcolor {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 100%;
+    padding-block: 7px;
+    padding-left: 10px;
+}
+.inputcolor::placeholder{
+    padding-left: 2px;
+    font-size: 17px;
+}
+
+.inputcolor:focus,
+.inputcolor:active {
+    border-color: none;
+    box-shadow: none;
+}
+
+.passicon {
+    z-index: 999999;
+}

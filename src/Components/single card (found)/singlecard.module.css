@@ -1,0 +1,29 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+
+.layer {
+    background-color: rgba(255, 255, 255, 21%);
+    padding-block: 40px;
+
+}
+
+.personcard {
+    background-color: rgba(255, 255, 255, 66%);
+    height: 300px;
+}
+.reportercard {
+    background-color: rgb(200, 200, 200);
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.missinfo {
+    color: #A81A1A;
+    background-color: rgba(255, 255, 255, 30%);
+    border: 2px solid #707070a3;
+    font-weight: 600;
+    font-size: 16px;
+}

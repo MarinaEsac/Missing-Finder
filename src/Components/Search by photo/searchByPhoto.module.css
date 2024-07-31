@@ -1,0 +1,19 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+.layer {
+    background-color: rgba(255, 255, 255, 21%);
+    padding-block: 40px;
+
+}
+.lable {
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.missingPhoto {
+    width: 270px;
+    height: 300px;
+    border-radius: 25px;
+}

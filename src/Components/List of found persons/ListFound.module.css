@@ -1,0 +1,65 @@
+.width {
+    width: 20%;
+}
+
+.mynavbar {
+    background-color: rgba(255, 255, 255, 58%);
+}
+
+.search {
+    width: 33%;
+}
+
+.icon {
+    position: absolute;
+    top: 10px;
+    right: 8px;
+    color: black;
+}
+
+.inputstyle {
+    background-color: rgb(9, 8, 8, 30%);
+    color: white;
+}
+
+.inputstyle:focus,
+.inputstyle:active {
+    border-color: white;
+    box-shadow: none;
+    background-color: rgba(9, 8, 8, 0);
+}
+
+.inputstyle::placeholder {
+    color: white;
+}
+
+.options {
+    background-color: black;
+}
+
+.personcard {
+    background-color: rgba(255, 255, 255, 66%);
+    width: 330px;
+    height: 260px;
+    overflow: hidden;
+}
+
+.missinfo {
+    color: #A81A1A;
+    background-color: rgba(255, 255, 255, 30%);
+    border: 2px solid #707070a3;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.font {
+    font-size: 16px;
+}
+
+.missingPhotos {
+    height: 120px;
+    border-radius: 13px;
+}
+.options {
+    background-color: black;
+}

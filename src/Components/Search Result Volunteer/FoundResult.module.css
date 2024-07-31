@@ -1,0 +1,40 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+
+.layer {
+    background-color: rgba(255, 255, 255, 21%);
+    padding-block: 40px;
+
+}
+
+.btnstyle {
+    background-color: #a81a1ae3;
+    width: 150px;
+}
+
+.datastyle {
+    background-color: rgba(255, 255, 255, 40%);
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+}
+
+.missingPhoto {
+    width: 270px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.opacity {
+    background-color: rgb(15, 106, 124);
+}
+.cardData{
+    width: 30%;
+    padding: 10px;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

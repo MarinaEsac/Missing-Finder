@@ -1,0 +1,14 @@
+.background{
+    background-image: url(../../Images/background.png);
+    background-size: 100% 100%;
+}
+
+.layer{
+    background-color: #48464662;
+}
+
+section .inputs span{
+    background-color: #48464610;
+    border: 0px;
+    font-size: 20px;
+}

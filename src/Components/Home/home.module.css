@@ -1,0 +1,77 @@
+
+.search {
+    width: 33%;
+}
+
+.mynavbar {
+    background-color: rgba(255, 255, 255, 58%);
+}
+
+.myfooter {
+    background-color: rgba(0, 0, 0, 37%);
+}
+
+.bg {
+    background-image: url('../../Images//home.png');
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+.card1 {
+    width: 45%;
+    padding: 5px;
+    right: 0;
+    top: 389px;
+    background-color: #8A3434;
+}
+
+.card2 {
+    width: 27%;
+    left: 0;
+    bottom: 0px;
+    background-color: #8A3434;
+
+}
+
+.icon {
+    position: absolute;
+    top: 35px;
+    right: 15px;
+}
+
+.innerdiv {
+    background-color: rgba(255, 255, 255, 41%);
+}
+
+.pstyle {
+    color: #282A4C;
+    font-size: 33px;
+    margin-top: 80px;
+}
+
+.btnstyle {
+    background-color: #A81A1A;
+    width: 250px;
+    height: 40px;
+}
+
+.stylebtn {
+    color: #A81A1A;
+    position: absolute;
+    right: 60px;
+    margin-top: 20px;
+}
+
+
+.bgfooter {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+    /* opacity: 82%; */
+}
+
+.breackfooter {
+    width: 2px;
+    height: 152px;
+    background-color: white;
+    opacity: 30%;
+}

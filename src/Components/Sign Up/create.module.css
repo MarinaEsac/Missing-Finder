@@ -1,0 +1,23 @@
+header {
+    background-image: url(../../Images/background.png);
+    background-size: 100% 100%;
+}
+
+.logo{
+    width: 200px;
+    opacity: 45%;
+}
+
+.pstyle {
+    text-align: center;
+    font-size: 20px;
+}
+
+.first2Inputs{
+    margin-right: 50px;
+
+}
+
+.inputcolor {
+    background-color: rgb(255, 255, 255, 70%) !important;
+}

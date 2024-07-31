@@ -1,0 +1,90 @@
+.bg {
+    background-image: url('../../Images/background.png');
+    background-size: 100% 100%;
+}
+
+.layer {
+    background-color: rgba(255, 255, 255, 30%);
+}
+
+.lable {
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.inputstyle {
+    background-color: rgba(255, 255, 255, 35%);
+    color: white;
+    transition: 0.4s all;
+    font-size: 16px;
+}
+
+.spanstyle {
+    background-color: rgba(255, 255, 255, 35%);
+    color: white;
+}
+
+.inputstyle:hover {
+    background-color: rgba(255, 255, 255, 55%);
+    border-color: black;
+}
+
+.inputstyle:focus,
+.inputstyle:active {
+    border-color: white;
+    box-shadow: none;
+    background-color: rgba(255, 255, 255, 20%);
+}
+
+.inputstyle::placeholder {
+    color: white;
+}
+
+.rediostyle {
+    color: #A81A1A;
+    font-size: 17px;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.radiostyle {
+    background-color: rgba(255, 255, 255, 53%);
+}
+
+.color {
+    color: #A81A1A;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    /* margin-left: 130px; */
+}
+
+textarea {
+    resize: none;
+    max-height: 100px;
+    background-color: rgba(255, 255, 255, 22%);
+    border-style: none;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+textarea::placeholder {
+    color: rgba(0, 0, 0, 0.518);
+}
+
+
+.inputsSize {
+    width: 88%;
+}
+
+.options {
+    background-color: black;
+}
+.missingPhotos {
+    width: 33.333%;
+    height: 140px;
+    border-radius: 13px;
+}
